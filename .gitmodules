@@ -1,6 +1,0 @@
-[submodule "app-albergue"]
-	path = app-albergue
-	url = https://github.com/VladG2332/Proyecto-Albergue.git
-[submodule "app-repartidor"]
-	path = app-repartidor
-	url = https://github.com/VladG2332/Proyecto-Albergue.git
